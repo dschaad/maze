@@ -1,16 +1,11 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
+This game is unfinished. Currently, there is a square that you can move with the arrow keys in any 2D direction.
+I wanted to learn Unity and experiment with what it has to offer.
 
 # Development Environment
 
-I used Unity version 
-
-{Describe the programming language that you used and any libraries.}
+I used Unity and Visual Studio Code.
 
 # Useful Websites
 
@@ -20,6 +15,6 @@ I used Unity version
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add collisions between the player and the wall
+* Create a maze map
+* Limit the player's view
